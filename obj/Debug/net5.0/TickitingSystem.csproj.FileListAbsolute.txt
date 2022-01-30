@@ -1,0 +1,16 @@
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.exe
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.deps.json
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.runtimeconfig.json
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.runtimeconfig.dev.json
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.dll
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\ref\TickitingSystem.dll
+C:\Users\josef\repos\TickitingSystem\bin\Debug\net5.0\TickitingSystem.pdb
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.csproj.AssemblyReference.cache
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.AssemblyInfoInputs.cache
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.AssemblyInfo.cs
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.csproj.CoreCompileInputs.cache
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.dll
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\ref\TickitingSystem.dll
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.pdb
+C:\Users\josef\repos\TickitingSystem\obj\Debug\net5.0\TickitingSystem.genruntimeconfig.cache
